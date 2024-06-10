@@ -1,0 +1,6 @@
+-o <executable name>            compile to named executable
+-Wall                           check for errors and warnings
+-w                              suppress warnings
+-g -o <debug file name>         create debug version of output file
+-L <directory>                  search directory for header files
+-v                              verbose
